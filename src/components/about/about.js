@@ -5,11 +5,7 @@ const AboutMe = () => {
   return (
     <section className="about-me">
       <div className="aboutme">
-        <img
-          src=""
-          alt="Baily"
-          className="image"
-        />
+        <img src="" alt="Baily" className="image"/>
         <div className="info">
           <h2>Baily Locatelli</h2>
           <p>

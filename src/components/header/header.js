@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Outlet, Link} from 'react-router-dom'
 import './header.css'; 
 
 const Header = () => {
@@ -8,12 +9,13 @@ const Header = () => {
       <div className="name">Locatelli</div>
       <div className="nav">
         <nav>
-          <a href="#">About me</a>
-          <a href="#">Portfolio</a>
-          <a href="#">Contact</a>
-          <a href="#">Resume</a>
+          <Link to="/">About me</Link>
+          <Link to="/portoflio">Portfolio</Link>
+          <Link to="/contact">Contact</Link>
+          <Link to="/Resume">Resume</Link>
         </nav>
       </div>
+      <Outlet />
     </header>
   );
 };

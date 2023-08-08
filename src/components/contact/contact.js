@@ -1,7 +1,7 @@
 import React from 'react';
 
-const ContactPage = () => {
+const Contact = () => {
   return <div>Contact Page Content</div>;
 };
 
-export default ContactPage;
+export default Contact;
