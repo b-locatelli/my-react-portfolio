@@ -3,7 +3,7 @@ import React from 'react';
 import { Outlet, Link} from 'react-router-dom'
 import './header.css'; 
 
-const Header = () => {
+function Header() {
   return (
     <header className="header">
       <div className="name">Locatelli</div>
