@@ -4,7 +4,7 @@ import './portfolio.css';
 function Portfolio() {
   return (
     <div className='portfolio'>
-        <h1>My Portfolio</h1>
+        <h2>My Portfolio</h2>
         <div className='images'>
             <a href="https://github.com/b-locatelli/Timecapsule">
                 <img src="/assets/images/Timecapsule.jpg" alt="TimeCapsule" />

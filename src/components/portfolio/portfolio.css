@@ -1,9 +1,27 @@
+.portfolio {
+    text-align: center;
+    background-color: beige;
+}
+
+.portfolio h2 {
+    color: black;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 .images {
     display: grid;
-    margin: 10px;
+    grid-template-columns: repeat(2,1fr);
+    padding-bottom: 20px;
+    gap: 20px;
+}
+
+.images a {
+    flex: 1;
 }
 
 .images img {
-    width: 200px;
-    height: 200px;
+    width: 600px;
+    height: 400px;
 }
