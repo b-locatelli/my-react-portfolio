@@ -1,13 +1,12 @@
 .about-me {
     padding: 2rem;
-    background-color: beige;
+    background-color: rgb(211, 211, 211);
     min-height: 85vh;
   }
   
   .aboutme {
     display: flex;
     align-items: center;
-    /* flex-direction: column; */
   }
   
   .image {
