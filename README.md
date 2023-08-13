@@ -12,23 +12,19 @@
   * [Questions](#questions)
 
   ## Description
-  asdf
+  This is my portfolio to display the recent work i have created.
+  ![portfolio](./public/assets/images/port.PNG)
 
   ## Installation
-  asdf
+  Just need to go to https://github.com/b-locatelli/my-react-portfolio and run npm start on the application.
 
   ## Usage
-  asdf
+  Run npm i and npm start and start learning about me. 
 
   ## Licenses
     Your application is covered under MIT
 
-  ## Contributing
-  asdf
-
-  ## Tests
-  asdf
-
   ## Questions
   * Github: https://github.com/baily-locatelli
   * Email: bailylocatelli@gmail.com
+  github pages: 
