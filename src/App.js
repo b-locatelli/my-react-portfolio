@@ -14,7 +14,7 @@ function App() {
     <HashRouter basename="/"> 
       <Header />
     <Routes>
-      <Route path="/my-react-portfolio" element={<AboutMe />} />
+      <Route path="/" element={<AboutMe />} />
       <Route path="/portfolio" element={<Portfolio />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/resume" element={<Resume />} />
