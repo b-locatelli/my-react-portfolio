@@ -9,7 +9,7 @@ function Header() {
       <div className="name">Locatelli</div>
       <div className="nav">
         <nav>
-          <Link to="/">About me</Link>
+          <Link to="/my-react-portfolio">About me</Link>
           <Link to="/portfolio">Portfolio</Link>
           <Link to="/contact">Contact</Link>
           <Link to="/Resume">Resume</Link>
