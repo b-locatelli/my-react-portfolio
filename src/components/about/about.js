@@ -1,11 +1,12 @@
 import React from 'react';
-import './about.css'; 
+import './about.css';
+import Me from '../../assets/images/me.PNG' 
 
 const AboutMe = () => {
   return (
     <section className="about-me">
       <div className="aboutme">
-        <img src="/assets/images/me.PNG" alt="Baily" className="image"/>
+        <img src= {Me} alt="Baily" className="image"/>
         <div className="info">
           <h2>Baily Locatelli</h2>
           <p>
