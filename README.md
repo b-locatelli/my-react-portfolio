@@ -27,4 +27,4 @@
   ## Questions
   * Github: https://github.com/baily-locatelli
   * Email: bailylocatelli@gmail.com
-  github pages: 
+  github pages: https://b-locatelli.github.io/my-react-portfolio/
